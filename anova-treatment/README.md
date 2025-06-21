@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/0b79ed8d-018e-4971-bbc9-d79e14e645ff)
 # ANOVA-анализ: сравнение эффективности видов терапии
 
 Этот проект демонстрирует применение однофакторного дисперсионного анализа (ANOVA) для оценки различий в эффективности четырёх типов терапии (A, B, C, D) на основе данных экспрессии генов.
@@ -51,8 +50,7 @@
 
 ### F-распределение с выделением значения F:
 
-![F-distribution](![image](https://github.com/user-attachments/assets/0b79ed8d-018e-4971-bbc9-d79e14e645ff))
-
+![image](https://github.com/user-attachments/assets/0b79ed8d-018e-4971-bbc9-d79e14e645ff)
 
 ## 🛠 Используемые библиотеки
 
